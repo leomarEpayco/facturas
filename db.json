@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1001,
+    "tipo": "CC",
+    "cc": "1",
+    "name": "Angelo rojas",
+    "descripcion": "Credito Vehiculo",
+    "cuota": 1.5,
+    "total": 10.4
+  },
+  {
+    "id": 1002,
+    "tipo": "CC",
+    "cc": "1",
+    "name": "Angelo Rojas",
+    "descripcion": "Credito Vivenda",
+    "cuota": 1.5,
+    "total": 12
+  },
+  {
+    "id": 1003,
+    "tipo": "CC",
+    "cc": "2",
+    "name": "María Rodríguez",
+    "descripcion": "Credito Vivenda",
+    "cuota": 2,
+    "total": 10.2
+  },
+  {
+    "id": 1004,
+    "tipo": "CC",
+    "cc": "3",
+    "name": "Alex Guzmán",
+    "descripcion": "Credito Linea Blanca",
+    "cuota": 3,
+    "total": 10.4
+  },
+  {
+    "id": 1005,
+    "tipo": "CC",
+    "cc": "2",
+    "name": "María Rodríguez",
+    "descripcion": "Credito Linea Blanca",
+    "cuota": 1.5,
+    "total": 10.2
+  }
+]
