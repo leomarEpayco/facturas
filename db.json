@@ -6,7 +6,7 @@
       "cc": "1",
       "name": "Leoamr Esparragoza",
       "descripcion": "Credito Vehiculo",
-      "total": 10.25
+      "valor1": 10.25
     },
     {
       "id": 1002,
@@ -14,7 +14,9 @@
       "cc": "1",
       "name": "Leoamr Esparragoza",
       "descripcion": "Credito Vivenda",
-      "total": 13.5
+      "valor1": 9.35,
+      "valor2": 11.5,
+      "valor3": 13.25
     },
     {
       "id": 1003,
@@ -22,7 +24,7 @@
       "cc": "1",
       "name": "Leoamr Esparragoza",
       "descripcion": "Credito Vivenda",
-      "total": 15.38
+      "valor1": 15.38
     },
     {
       "id": 1004,
@@ -30,7 +32,7 @@
       "cc": "1",
       "name": "Leoamr Esparragoza",
       "descripcion": "Credito Linea Blanca",
-      "total": 50
+      "valor1": 50
     },
     {
       "id": 1005,
@@ -38,7 +40,7 @@
       "cc": "2",
       "name": "Yvonne Suárez",
       "descripcion": "Credito Linea Blanca",
-      "total": 15.75
+      "valor1": 15.75
     },
     {
       "id": 1006,
@@ -46,7 +48,7 @@
       "cc": "2",
       "name": "Yvonne Suárez",
       "descripcion": "Credito Linea Blanca",
-      "total": 35.15
+      "valor1": 35.15
     },
     {
       "id": 1007,
@@ -54,7 +56,7 @@
       "cc": "2",
       "name": "Yvonne Suárez",
       "descripcion": "Credito Linea Blanca",
-      "total": 22.65
+      "valor1": 22.65
     },
     {
       "id": 1008,
@@ -62,7 +64,7 @@
       "cc": "2",
       "name": "Yvonne Suárez",
       "descripcion": "Credito Linea Blanca",
-      "total": 45
+      "valor1": 45
     }
   ]
 }
