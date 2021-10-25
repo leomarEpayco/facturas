@@ -6,7 +6,7 @@
       "cc": "1",
       "name": "Leoamr Esparragoza",
       "descripcion": "Credito Vehiculo",
-      "valor1": 10.25,
+      "valor1": 100.25,
       "valor2": 7.41,
       "valor3": 9.23
     },
@@ -26,7 +26,7 @@
       "cc": "1",
       "name": "Leoamr Esparragoza",
       "descripcion": "Credito Vivenda",
-      "valor1": 15.38,
+      "valor1": 1500.38,
       "valor2": 15.38,
       "valor3": 15.38
     },
@@ -36,9 +36,29 @@
       "cc": "1",
       "name": "Leoamr Esparragoza",
       "descripcion": "Credito Linea Blanca",
-      "valor1": 51,
+      "valor1": 50001,
       "valor2": 20,
       "valor3": 32
+    },
+    {
+      "id": 1009,
+      "tipo": "CC",
+      "cc": "1",
+      "name": "Leoamr Esparragoza",
+      "descripcion": "Credito Linea Blanca",
+      "valor1": 20001,
+      "valor2": 200,
+      "valor3": 321
+    },
+    {
+      "id": 1010,
+      "tipo": "CC",
+      "cc": "1",
+      "name": "Leoamr Esparragoza",
+      "descripcion": "Credito Linea Blanca",
+      "valor1": 200000,
+      "valor2": 210,
+      "valor3": 331
     },
     {
       "id": 1005,
