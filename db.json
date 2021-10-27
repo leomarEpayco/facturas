@@ -99,6 +99,26 @@
       "valor1": 45,
       "valor2": 45,
       "valor3": 45
+    },
+    {
+      "id": 1011,
+      "tipo": "CC",
+      "cc": "3",
+      "name": "Yvonne Suárez",
+      "descripcion": "Credito Linea Blanca",
+      "valor1": 145711.27,
+      "valor2": 17917.60,
+      "valor3": 1
+    },
+    {
+      "id": 1012,
+      "tipo": "CC",
+      "cc": "3",
+      "name": "Yvonne Suárez",
+      "descripcion": "Credito Linea Blanca",
+      "valor1": 30644,
+      "valor2": 6363.2,
+      "valor3": 1
     }
   ]
 }
