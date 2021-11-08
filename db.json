@@ -119,6 +119,66 @@
       "valor1": 30644,
       "valor2": 6363.2,
       "valor3": 1
-    }
+    },
+    {
+    "id": 1013,
+    "tipo": "CC",
+    "cc": "1",
+    "name": "Leoamr Esparragoza",
+    "descripcion": "Credito Vehiculo",
+    "valor1": 100.25,
+    "valor2": 7.41,
+    "valor3": 9.23
+  },
+  {
+    "id": 1014,
+    "tipo": "CC",
+    "cc": "1",
+    "name": "Leoamr Esparragoza",
+    "descripcion": "Credito Vivenda",
+    "valor1": 9.35,
+    "valor2": 11.5,
+    "valor3": 13.25
+  },
+  {
+    "id": 1015,
+    "tipo": "CC",
+    "cc": "1",
+    "name": "Leoamr Esparragoza",
+    "descripcion": "Credito Vivenda",
+    "valor1": 1500.38,
+    "valor2": 15.38,
+    "valor3": 15.38
+  },
+  {
+    "id": 1016,
+    "tipo": "CC",
+    "cc": "1",
+    "name": "Leoamr Esparragoza",
+    "descripcion": "Credito Linea Blanca",
+    "valor1": 50001,
+    "valor2": 20,
+    "valor3": 32
+  },
+  {
+    "id": 1017,
+    "tipo": "CC",
+    "cc": "1",
+    "name": "Leoamr Esparragoza",
+    "descripcion": "Credito Linea Blanca",
+    "valor1": 20001,
+    "valor2": 200,
+    "valor3": 321
+  },
+  {
+    "id": 1018,
+    "tipo": "CC",
+    "cc": "1",
+    "name": "Leoamr Esparragoza",
+    "descripcion": "Credito Linea Blanca",
+    "valor1": 200000,
+    "valor2": 210,
+    "valor3": 331
+  }
   ]
 }
